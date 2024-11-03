@@ -1,1 +1,2 @@
-why are you looking at my website source
+# Hiya! Im Brodes!
+*This website is in development*
